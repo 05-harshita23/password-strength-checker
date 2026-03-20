@@ -19,6 +19,11 @@ This project demonstrates basic cybersecurity practices like password validation
 - Python
 - Regular Expressions (re)
 
+## Future Improvement
+- GUI-based interface
+- Integration with real-time password breach APIs
+- Advanced entropy-based strength calculation
+
 ## How to Run
 ```bash
 python password_checker.py
